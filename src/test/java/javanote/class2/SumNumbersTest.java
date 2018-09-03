@@ -1,19 +1,16 @@
 package javanote.class2;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.*;
 
-import static junit.framework.TestCase.assertTrue;
-import static org.hamcrest.core.Is.is;
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThat;
-import static org.junit.Assert.fail;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.fail;
 
-public class SumNumbersTest {
+class SumNumbersTest {
 
     @Test
-    public void success() {
+    void success() {
 
         // given
         SumNumbers sumNumbers = new SumNumbers();
@@ -26,11 +23,11 @@ public class SumNumbersTest {
         actual.add("1 2 5");
         actual.add("1 3 4");
 
-        assertThat(result, is(actual));
+        assertEquals(result, actual);
     }
 
     @Test
-    public void no() {
+    void no() {
 
         // given
         SumNumbers sumNumbers = new SumNumbers();
@@ -42,11 +39,11 @@ public class SumNumbersTest {
         Set<String> actual = new HashSet<>();
         actual.add("NO");
 
-        assertThat(result, is(actual));
+        assertEquals(result, actual);
     }
 
     @Test
-    public void numberSizeOver20() {
+    void numberSizeOver20() {
 
         // given
         SumNumbers sumNumbers = new SumNumbers();
@@ -61,12 +58,12 @@ public class SumNumbersTest {
             sumNumbers.quiz(numbers, 3);
             fail();
         } catch (Exception e) {
-            assertThat(e.getMessage(), is("over size"));
+            assertEquals(e.getMessage(), "over size");
         }
     }
 
     @Test
-    public void sumUnderMinValue() {
+    void sumUnderMinValue() {
 
         // given
         SumNumbers sumNumbers = new SumNumbers();
@@ -76,12 +73,12 @@ public class SumNumbersTest {
             sumNumbers.quiz(Arrays.asList(1, 2, 3, 4, 5), -1);
             fail();
         } catch (Exception e) {
-            assertThat(e.getMessage(), is("sum invalid"));
+            assertEquals(e.getMessage(), "sum invalid");
         }
     }
 
     @Test
-    public void sumOverMaxValue() {
+    void sumOverMaxValue() {
 
         // given
         SumNumbers sumNumbers = new SumNumbers();
@@ -91,7 +88,7 @@ public class SumNumbersTest {
             sumNumbers.quiz(Arrays.asList(1, 2, 3, 4, 5), 61);
             fail();
         } catch (Exception e) {
-            assertThat(e.getMessage(), is("sum invalid"));
+            assertEquals(e.getMessage(), "sum invalid");
         }
     }
 }
