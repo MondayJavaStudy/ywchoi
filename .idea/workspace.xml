@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0537465-9232-4926-9cb2-4e293af83c34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/javanote/class2/SumNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javanote/class2/SumNumbersTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -37,14 +33,15 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="gradle" value="2" />
-          <entry key="java" value="40" />
+          <entry key="java" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="75" />
           <entry key="gradle" value="69" />
-          <entry key="java" value="3177" />
+          <entry key="java" value="5015" />
+          <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -52,15 +49,15 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="69" />
-          <entry key="JAVA" value="3177" />
-          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="JAVA" value="5015" />
+          <entry key="PLAIN_TEXT" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="40" />
+          <entry key="JAVA" value="48" />
         </counts>
       </usages-collector>
     </session>
@@ -68,10 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class2/SumNumbersTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class4/TddThreeCardsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="247">
+              <caret line="63" column="68" selection-start-line="63" selection-start-column="68" selection-end-line="63" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,10 +77,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="268">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="508" column="34" lean-forward="true" selection-start-line="508" selection-start-column="34" selection-end-line="508" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -93,15 +99,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>assertE</find>
+      <find>public</find>
+      <find>public</find>
+      <find>int[]</find>
+      <find>new Triple {</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Triple</replace>
+      <replace>new Triple(</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -458,6 +472,10 @@
         <option value="$PROJECT_DIR$/src/main/java/javanote/class2/SumNumbers.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/javanote/class2/SumNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/javanote/class2/class4/TddThreeCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCards.java" />
+        <option value="$PROJECT_DIR$/src/test/java/javanote/class4/TddThreeCardsTest.java" />
       </list>
     </option>
   </component>
@@ -557,53 +575,22 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javanote" type="462c0819:PsiDirectoryNode" />
-              <item name="class2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="class2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.junit.jupiter:junit-jupiter-api:5.2.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.junit.jupiter:junit-jupiter-api:5.2.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-jupiter-api-5.2.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.junit.jupiter:junit-jupiter-api:5.2.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-jupiter-api-5.2.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -618,6 +605,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/javanote" />
     <property name="last_opened_file_path" value="C:/dev/tags" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.jscs" value="project" />
@@ -636,12 +624,12 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="javanote.class2" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="javanote.class2" />
       <recent name="class1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -656,23 +644,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SumNumbersTest">
+  <component name="RunManager" selected="JUnit.TddThreeCardsTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumNumberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javanote.class2.SumNumberMain" />
-      <module name="study_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javanote.class2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -683,66 +657,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TddThreeCardsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javanote.class2.*" />
+          <option name="PATTERN" value="javanote.class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="javanote.class2" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class2.SumNumbersTest" />
+      <option name="PACKAGE_NAME" value="javanote.class4" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumbersTest.fail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TddThreeCardsTest.중복된_결과" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javanote.class2.*" />
+          <option name="PATTERN" value="javanote.class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="javanote.class2" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class2.SumNumbersTest" />
-      <option name="METHOD_NAME" value="fail" />
+      <option name="PACKAGE_NAME" value="javanote.class4" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
+      <option name="METHOD_NAME" value="중복된_결과" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumbersTest.numberSizeOver20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TddThreeCardsTest.결과가_여럿인_경우" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javanote.class2.*" />
+          <option name="PATTERN" value="javanote.class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="javanote.class2" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class2.SumNumbersTest" />
-      <option name="METHOD_NAME" value="numberSizeOver20" />
+      <option name="PACKAGE_NAME" value="javanote.class4" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
+      <option name="METHOD_NAME" value="결과가_여럿인_경우" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumNumbersTest.sumUnderMinValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TddThreeCardsTest.배열_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javanote.class2.*" />
+          <option name="PATTERN" value="javanote.class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="javanote.class2" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class2.SumNumbersTest" />
-      <option name="METHOD_NAME" value="sumUnderMinValue" />
+      <option name="PACKAGE_NAME" value="javanote.class4" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
+      <option name="METHOD_NAME" value="배열_equals" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TddThreeCardsTest.리스트_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javanote.class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javanote.class4" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
+      <option name="METHOD_NAME" value="리스트_equals" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -756,19 +747,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SumNumbersTest.fail" />
-      <item itemvalue="JUnit.SumNumbersTest.numberSizeOver20" />
-      <item itemvalue="JUnit.SumNumbersTest" />
-      <item itemvalue="JUnit.SumNumbersTest.sumUnderMinValue" />
-      <item itemvalue="Application.SumNumberMain" />
+      <item itemvalue="JUnit.TddThreeCardsTest" />
+      <item itemvalue="JUnit.TddThreeCardsTest.결과가_여럿인_경우" />
+      <item itemvalue="JUnit.TddThreeCardsTest.중복된_결과" />
+      <item itemvalue="JUnit.TddThreeCardsTest.배열_equals" />
+      <item itemvalue="JUnit.TddThreeCardsTest.리스트_equals" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SumNumbersTest" />
-        <item itemvalue="Application.SumNumberMain" />
-        <item itemvalue="JUnit.SumNumbersTest.sumUnderMinValue" />
-        <item itemvalue="JUnit.SumNumbersTest.numberSizeOver20" />
-        <item itemvalue="JUnit.SumNumbersTest.fail" />
+        <item itemvalue="JUnit.TddThreeCardsTest" />
+        <item itemvalue="JUnit.TddThreeCardsTest.리스트_equals" />
+        <item itemvalue="JUnit.TddThreeCardsTest.배열_equals" />
+        <item itemvalue="JUnit.TddThreeCardsTest.중복된_결과" />
+        <item itemvalue="JUnit.TddThreeCardsTest.결과가_여럿인_경우" />
       </list>
     </recent_temporary>
   </component>
@@ -793,44 +784,58 @@
       <updated>1534154684782</updated>
       <workItem from="1534154686492" duration="4289000" />
       <workItem from="1534758674388" duration="6913000" />
-      <workItem from="1535970862533" duration="975000" />
+      <workItem from="1535970862533" duration="5016000" />
     </task>
+    <task id="LOCAL-00001" summary="Apply Junit5">
+      <created>1535971906732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535971906732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SumNumbersTest_name - 2018.08.20 at 20h 28m 56s.xml">
-      <configuration name="SumNumbersTest.name" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_중복된_결과 - 2018.09.03 at 20h 36m 46s.xml">
+      <configuration name="TddThreeCardsTest.중복된_결과" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumNumbersTest_name - 2018.08.20 at 20h 29m 56s.xml">
-      <configuration name="SumNumbersTest.name" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_중복된_결과 - 2018.09.03 at 20h 37m 51s.xml">
+      <configuration name="TddThreeCardsTest.중복된_결과" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumNumbersTest_fail - 2018.08.20 at 20h 30m 40s.xml">
-      <configuration name="SumNumbersTest.fail" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 42m 07s.xml">
+      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumNumbersTest_fail - 2018.08.20 at 20h 30m 59s.xml">
-      <configuration name="SumNumbersTest.fail" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 42m 42s.xml">
+      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumNumbersTest_numberSizeOver20 - 2018.08.20 at 20h 32m 09s.xml">
-      <configuration name="SumNumbersTest.numberSizeOver20" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_중복된_결과 - 2018.09.03 at 20h 42m 44s.xml">
+      <configuration name="TddThreeCardsTest.중복된_결과" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumNumbersTest - 2018.08.20 at 20h 39m 29s.xml">
-      <configuration name="SumNumbersTest" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 43m 06s.xml">
+      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumNumbersTest - 2018.08.20 at 20h 40m 15s.xml">
-      <configuration name="SumNumbersTest" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 43m 29s.xml">
+      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumNumbersTest_sumUnderMinValue - 2018.08.20 at 20h 40m 38s.xml">
-      <configuration name="SumNumbersTest.sumUnderMinValue" configurationId="JUnit" />
+    <history-entry file="TddThreeCardsTest_리스트_equals - 2018.09.03 at 20h 44m 48s.xml">
+      <configuration name="TddThreeCardsTest.리스트_equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TddThreeCardsTest - 2018.09.03 at 20h 53m 28s.xml">
+      <configuration name="TddThreeCardsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TddThreeCardsTest - 2018.09.03 at 20h 57m 19s.xml">
+      <configuration name="TddThreeCardsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12177000" />
+    <option name="totallyTimeSpent" value="16218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="22" width="1393" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2561066" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2561066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="DB Browser" order="3" />
@@ -838,14 +843,14 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24458599" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39923468" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32484075" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39745224" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -899,6 +904,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Apply Junit5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apply Junit5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -955,13 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="105" column="20" lean-forward="true" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class1/RemoveCollection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -1014,6 +1016,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="403" column="19" selection-start-line="403" selection-start-column="19" selection-end-line="403" selection-end-column="19" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#13541#13542#0" expanded="true" />
+            <element signature="e#13596#13597#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1021,6 +1029,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="4420" column="36" lean-forward="true" selection-start-line="4420" selection-start-column="36" selection-end-line="4420" selection-end-column="36" />
+          <folding>
+            <element signature="e#175306#175307#0" expanded="true" />
+            <element signature="e#175349#175350#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1110,8 +1122,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class2/SumNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="508" column="34" lean-forward="true" selection-start-line="508" selection-start-column="34" selection-end-line="508" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.2.0/cde9c7381febf2edf35949808b084c982045bafa/junit-jupiter-api-5.2.0-sources.jar!/org/junit/jupiter/api/Assertions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="498" column="23" selection-start-line="498" selection-start-column="23" selection-end-line="498" selection-end-column="23" />
+          <folding>
+            <element signature="e#18505#18506#0" expanded="true" />
+            <element signature="e#18555#18556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class4/TddThreeCardsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="63" column="68" selection-start-line="63" selection-start-column="68" selection-end-line="63" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
