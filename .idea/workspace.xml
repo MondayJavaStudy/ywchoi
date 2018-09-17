@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a0537465-9232-4926-9cb2-4e293af83c34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/javanote/class6/GenericsTddThreeCards$Triple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/javanote/class6/GenericsTddThreeCards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/javanote/class6/GenericsTddThreeCards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/javanote/class6/GenericsTddThreeCardsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/javanote/class6/GenericsTddThreeCardsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javanote/class6/GenericsTddThreeCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javanote/class6/GenericsTddThreeCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javanote/class6/GenericsTddThreeCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javanote/class6/GenericsTddThreeCardsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -22,10 +27,10 @@
     <session id="1731604878">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -33,14 +38,14 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="gradle" value="2" />
-          <entry key="java" value="48" />
+          <entry key="java" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="75" />
+          <entry key="dummy" value="92" />
           <entry key="gradle" value="69" />
-          <entry key="java" value="5015" />
+          <entry key="java" value="6157" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
@@ -49,47 +54,58 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="69" />
-          <entry key="JAVA" value="5015" />
-          <entry key="PLAIN_TEXT" value="101" />
+          <entry key="JAVA" value="6157" />
+          <entry key="PLAIN_TEXT" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="48" />
+          <entry key="JAVA" value="75" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class4/TddThreeCardsTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class6/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="63" column="68" selection-start-line="63" selection-start-column="68" selection-end-line="63" selection-end-column="68" />
+            <state relative-caret-position="171">
+              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCards.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class6/Triple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+            <state relative-caret-position="88">
+              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/List.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class6/GenericsTddThreeCards.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="508" column="34" lean-forward="true" selection-start-line="508" selection-start-column="34" selection-end-line="508" selection-end-column="34" />
+            <state relative-caret-position="264">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class6/GenericsTddThreeCardsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -108,13 +124,20 @@
     <findStrings>
       <find>assertE</find>
       <find>public</find>
-      <find>public</find>
       <find>int[]</find>
       <find>new Triple {</find>
+      <find>Triple&gt;</find>
+      <find>new Triple(</find>
+      <find>new Triple&lt;&gt;</find>
+      <find>&lt;Integer&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>Triple</replace>
       <replace>new Triple(</replace>
+      <replace>Triple&lt;Integer&gt;&gt;</replace>
+      <replace>new Triple&lt;&gt;(</replace>
+      <replace>Triple.of</replace>
+      <replace>&lt;Integer, Integer, Integer&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -476,6 +499,13 @@
         <option value="$PROJECT_DIR$/src/test/java/javanote/class2/class4/TddThreeCardsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCards.java" />
         <option value="$PROJECT_DIR$/src/test/java/javanote/class4/TddThreeCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javanote/class6/TddThreeCards.java" />
+        <option value="$PROJECT_DIR$/src/test/java/javanote/class4/GenericsTddThreeCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javanote/class6/Pair.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javanote/class6/Tuple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javanote/class6/Triple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javanote/class6/GenericsTddThreeCards.java" />
+        <option value="$PROJECT_DIR$/src/test/java/javanote/class6/GenericsTddThreeCardsTest.java" />
       </list>
     </option>
   </component>
@@ -491,43 +521,6 @@
     <option name="width" value="1393" />
     <option name="height" value="878" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>ActionScript specificJavaScript</id>
-          </State>
-          <State>
-            <id>ECMAScript 6 migration aidsJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Google App Engine (Python)</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Pyramid</id>
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Action Cable</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -536,8 +529,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -575,6 +566,15 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javanote" type="462c0819:PsiDirectoryNode" />
+              <item name="class6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -592,10 +592,21 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javanote" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javanote" type="462c0819:PsiDirectoryNode" />
+              <item name="class6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -618,18 +629,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="javanote.class2" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="javanote.class2" />
-      <recent name="class1" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javanote.class4" />
+      <recent name="javanote.class6" />
+      <recent name="javanote.class2" />
+      <recent name="class1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -644,7 +657,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TddThreeCardsTest">
+  <component name="RunManager" selected="JUnit.GenericsTddThreeCardsTest (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -657,22 +670,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TddThreeCardsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTddThreeCardsTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javanote.class4.*" />
+          <option name="PATTERN" value="javanote.class6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="javanote.class4" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
+      <option name="PACKAGE_NAME" value="javanote.class6" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class6.GenericsTddThreeCardsTest" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TddThreeCardsTest.중복된_결과" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTddThreeCardsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
@@ -681,7 +694,22 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="javanote.class4" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.GenericsTddThreeCardsTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsTddThreeCardsTest.중복된_결과" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javanote.class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javanote.class4" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.GenericsTddThreeCardsTest" />
       <option name="METHOD_NAME" value="중복된_결과" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -689,7 +717,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TddThreeCardsTest.결과가_여럿인_경우" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTddThreeCardsTest.배열_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
@@ -698,15 +726,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="javanote.class4" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
-      <option name="METHOD_NAME" value="결과가_여럿인_경우" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.GenericsTddThreeCardsTest" />
+      <option name="METHOD_NAME" value="배열_equals" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TddThreeCardsTest.배열_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTddThreeCardsTest.리스트_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="study_test" />
       <extension name="coverage">
         <pattern>
@@ -715,8 +743,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="javanote.class4" />
-      <option name="MAIN_CLASS_NAME" value="javanote.class4.TddThreeCardsTest" />
-      <option name="METHOD_NAME" value="배열_equals" />
+      <option name="MAIN_CLASS_NAME" value="javanote.class4.GenericsTddThreeCardsTest" />
+      <option name="METHOD_NAME" value="리스트_equals" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -747,19 +775,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TddThreeCardsTest" />
-      <item itemvalue="JUnit.TddThreeCardsTest.결과가_여럿인_경우" />
-      <item itemvalue="JUnit.TddThreeCardsTest.중복된_결과" />
-      <item itemvalue="JUnit.TddThreeCardsTest.배열_equals" />
-      <item itemvalue="JUnit.TddThreeCardsTest.리스트_equals" />
+      <item itemvalue="JUnit.GenericsTddThreeCardsTest" />
+      <item itemvalue="JUnit.GenericsTddThreeCardsTest.중복된_결과" />
+      <item itemvalue="JUnit.GenericsTddThreeCardsTest.배열_equals" />
+      <item itemvalue="JUnit.GenericsTddThreeCardsTest.리스트_equals" />
+      <item itemvalue="JUnit.GenericsTddThreeCardsTest (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TddThreeCardsTest" />
-        <item itemvalue="JUnit.TddThreeCardsTest.리스트_equals" />
-        <item itemvalue="JUnit.TddThreeCardsTest.배열_equals" />
-        <item itemvalue="JUnit.TddThreeCardsTest.중복된_결과" />
-        <item itemvalue="JUnit.TddThreeCardsTest.결과가_여럿인_경우" />
+        <item itemvalue="JUnit.GenericsTddThreeCardsTest (1)" />
+        <item itemvalue="JUnit.GenericsTddThreeCardsTest.리스트_equals" />
+        <item itemvalue="JUnit.GenericsTddThreeCardsTest" />
+        <item itemvalue="JUnit.GenericsTddThreeCardsTest.배열_equals" />
+        <item itemvalue="JUnit.GenericsTddThreeCardsTest.중복된_결과" />
       </list>
     </recent_temporary>
   </component>
@@ -784,7 +812,8 @@
       <updated>1534154684782</updated>
       <workItem from="1534154686492" duration="4289000" />
       <workItem from="1534758674388" duration="6913000" />
-      <workItem from="1535970862533" duration="5016000" />
+      <workItem from="1535970862533" duration="5327000" />
+      <workItem from="1537179109451" duration="4354000" />
     </task>
     <task id="LOCAL-00001" summary="Apply Junit5">
       <created>1535971906732</created>
@@ -793,57 +822,64 @@
       <option name="project" value="LOCAL" />
       <updated>1535971906732</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GenericsTddThreeCards 생성">
+      <created>1537184383209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537184383209</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TddThreeCardsTest_중복된_결과 - 2018.09.03 at 20h 36m 46s.xml">
-      <configuration name="TddThreeCardsTest.중복된_결과" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TddThreeCardsTest_중복된_결과 - 2018.09.03 at 20h 37m 51s.xml">
-      <configuration name="TddThreeCardsTest.중복된_결과" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 42m 07s.xml">
-      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 42m 42s.xml">
-      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TddThreeCardsTest_중복된_결과 - 2018.09.03 at 20h 42m 44s.xml">
-      <configuration name="TddThreeCardsTest.중복된_결과" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 43m 06s.xml">
-      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TddThreeCardsTest_배열_equals - 2018.09.03 at 20h 43m 29s.xml">
-      <configuration name="TddThreeCardsTest.배열_equals" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TddThreeCardsTest_리스트_equals - 2018.09.03 at 20h 44m 48s.xml">
-      <configuration name="TddThreeCardsTest.리스트_equals" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TddThreeCardsTest - 2018.09.03 at 20h 53m 28s.xml">
       <configuration name="TddThreeCardsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TddThreeCardsTest - 2018.09.03 at 20h 57m 19s.xml">
       <configuration name="TddThreeCardsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TddThreeCardsTest - 2018.09.03 at 20h 58m 09s.xml">
+      <configuration name="TddThreeCardsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TddThreeCardsTest - 2018.09.03 at 20h 58m 47s.xml">
+      <configuration name="TddThreeCardsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TddThreeCardsTest_리스트_equals - 2018.09.17 at 19h 40m 05s.xml">
+      <configuration name="TddThreeCardsTest.리스트_equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TddThreeCardsTest_리스트_equals - 2018.09.17 at 19h 40m 10s.xml">
+      <configuration name="TddThreeCardsTest.리스트_equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenericsTddThreeCardsTest_(1) - 2018.09.17 at 20h 29m 10s.xml">
+      <configuration name="GenericsTddThreeCardsTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenericsTddThreeCardsTest_(1) - 2018.09.17 at 20h 31m 05s.xml">
+      <configuration name="GenericsTddThreeCardsTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenericsTddThreeCardsTest_(1) - 2018.09.17 at 20h 44m 17s.xml">
+      <configuration name="GenericsTddThreeCardsTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GenericsTddThreeCardsTest_(1) - 2018.09.17 at 20h 44m 23s.xml">
+      <configuration name="GenericsTddThreeCardsTest (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16218000" />
+    <option name="totallyTimeSpent" value="20883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="22" width="1393" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2561066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25980756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="DB Browser" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32484075" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32908162" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32229298" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39745224" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -854,7 +890,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32866243" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.3252551" />
       <window_info anchor="bottom" id="Reviews" order="15" />
       <window_info anchor="bottom" id="Atlassian " order="16" />
@@ -907,7 +943,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Apply Junit5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apply Junit5" />
+    <MESSAGE value="GenericsTddThreeCards 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="GenericsTddThreeCards 생성" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -996,43 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="926" column="27" selection-start-line="926" selection-start-column="27" selection-end-line="926" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1631">
-          <caret line="3874" lean-forward="true" selection-start-line="3874" selection-end-line="3874" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-            <element signature="e#177353#177354#0" expanded="true" />
-            <element signature="e#177410#177411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="403" column="19" selection-start-line="403" selection-start-column="19" selection-end-line="403" selection-end-column="19" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-            <element signature="e#13541#13542#0" expanded="true" />
-            <element signature="e#13596#13597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="4420" column="36" lean-forward="true" selection-start-line="4420" selection-start-column="36" selection-end-line="4420" selection-end-column="36" />
-          <folding>
-            <element signature="e#175306#175307#0" expanded="true" />
-            <element signature="e#175349#175350#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1130,13 +1130,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="508" column="34" lean-forward="true" selection-start-line="508" selection-start-column="34" selection-end-line="508" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.2.0/cde9c7381febf2edf35949808b084c982045bafa/junit-jupiter-api-5.2.0-sources.jar!/org/junit/jupiter/api/Assertions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1148,20 +1141,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCards.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        <state relative-caret-position="1593">
+          <caret line="163" column="11" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#13541#13542#0" expanded="true" />
+            <element signature="e#13596#13597#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class4/TddThreeCardsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class4/TddThreeCards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="63" column="68" selection-start-line="63" selection-start-column="68" selection-end-line="63" selection-end-column="68" />
+        <state relative-caret-position="182">
+          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="4145" column="69" lean-forward="true" selection-start-line="4145" selection-start-column="69" selection-end-line="4145" selection-end-column="69" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#177353#177354#0" expanded="true" />
+            <element signature="e#177410#177411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class6/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <folding>
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#3914#3915#0" expanded="true" />
+            <element signature="e#3960#3961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class6/Tuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class6/Triple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="480" column="19" lean-forward="true" selection-start-line="480" selection-start-column="19" selection-end-line="480" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="174" column="15" selection-start-line="174" selection-start-column="15" selection-end-line="174" selection-end-column="15" />
+          <folding>
+            <element signature="e#5644#5645#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7312#7313#0" expanded="true" />
+            <element signature="e#175306#175307#0" expanded="true" />
+            <element signature="e#175349#175350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javanote/class6/GenericsTddThreeCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/javanote/class6/GenericsTddThreeCardsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
